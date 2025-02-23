@@ -1,0 +1,1001 @@
+Customer_ID,Age,Subscription_Length_Months,Monthly_Bill,Total_Usage_GB,Support_Calls,Payment_Method,Contract_Type,Churn
+1,56,35,122,473,1,PayPal,Monthly,No
+2,69,51,26,114,0,Credit Card,Monthly,No
+3,46,15,113,278,8,Credit Card,Yearly,Yes
+4,32,25,107,414,2,PayPal,Yearly,No
+5,60,55,197,468,0,Bank Transfer,Yearly,Yes
+6,25,37,97,213,6,Credit Card,Monthly,No
+7,38,28,118,172,9,PayPal,Monthly,No
+8,56,10,172,288,4,Credit Card,Monthly,No
+9,36,39,79,435,4,PayPal,Yearly,No
+10,40,57,167,174,0,Bank Transfer,Yearly,Yes
+11,28,17,83,113,8,Bank Transfer,Monthly,Yes
+12,28,39,72,376,6,PayPal,Monthly,No
+13,41,22,165,405,7,PayPal,Yearly,No
+14,53,26,69,483,8,PayPal,Monthly,No
+15,57,44,88,122,5,Bank Transfer,Yearly,Yes
+16,41,25,46,32,4,Credit Card,Yearly,Yes
+17,20,17,31,222,5,Bank Transfer,Monthly,Yes
+18,39,13,157,119,1,PayPal,Yearly,Yes
+19,19,20,105,39,3,PayPal,Monthly,No
+20,41,25,77,497,2,Bank Transfer,Yearly,No
+21,61,4,26,268,6,PayPal,Yearly,No
+22,47,10,21,233,8,Bank Transfer,Monthly,No
+23,55,3,159,431,4,PayPal,Yearly,Yes
+24,19,41,154,18,5,Credit Card,Monthly,No
+25,38,45,147,149,9,Credit Card,Monthly,Yes
+26,50,18,127,397,1,PayPal,Yearly,No
+27,29,47,31,149,2,Bank Transfer,Monthly,No
+28,39,36,129,126,2,Credit Card,Monthly,Yes
+29,61,47,59,392,8,Bank Transfer,Monthly,Yes
+30,42,22,23,302,6,PayPal,Monthly,No
+31,66,34,184,360,7,Bank Transfer,Monthly,No
+32,44,47,38,238,9,Credit Card,Monthly,No
+33,59,8,173,135,8,Bank Transfer,Yearly,Yes
+34,45,40,189,151,5,Bank Transfer,Monthly,Yes
+35,33,49,134,236,3,PayPal,Yearly,No
+36,32,44,16,224,0,PayPal,Yearly,Yes
+37,64,19,38,203,7,PayPal,Monthly,No
+38,68,42,148,256,6,Credit Card,Yearly,Yes
+39,61,41,42,86,1,Credit Card,Yearly,No
+40,69,37,143,150,7,PayPal,Monthly,Yes
+41,20,6,120,235,4,PayPal,Monthly,No
+42,54,52,88,345,6,Credit Card,Monthly,No
+43,68,26,169,22,3,Credit Card,Yearly,No
+44,24,34,188,348,4,Credit Card,Yearly,No
+45,38,59,67,285,7,Credit Card,Monthly,No
+46,26,56,35,269,0,PayPal,Monthly,No
+47,56,59,183,466,0,Credit Card,Yearly,No
+48,35,45,38,258,3,PayPal,Yearly,No
+49,21,6,13,29,2,Bank Transfer,Yearly,Yes
+50,42,37,108,213,9,Bank Transfer,Yearly,Yes
+51,31,57,150,463,1,Credit Card,Monthly,No
+52,67,33,48,436,2,Bank Transfer,Yearly,Yes
+53,26,53,24,283,0,Bank Transfer,Yearly,No
+54,43,22,128,50,0,Bank Transfer,Yearly,No
+55,19,21,38,95,5,Credit Card,Yearly,No
+56,37,6,166,463,4,Credit Card,Monthly,No
+57,45,6,84,499,7,Bank Transfer,Monthly,No
+58,64,55,125,407,1,PayPal,Yearly,No
+59,24,48,41,88,3,Bank Transfer,Yearly,Yes
+60,61,4,139,44,7,Credit Card,Monthly,No
+61,25,30,184,461,5,Credit Card,Monthly,Yes
+62,64,11,93,278,0,Credit Card,Yearly,Yes
+63,52,30,31,171,3,Bank Transfer,Yearly,No
+64,31,31,36,421,0,PayPal,Monthly,No
+65,34,24,90,189,1,Credit Card,Monthly,No
+66,53,55,135,353,4,Credit Card,Monthly,Yes
+67,67,9,193,184,7,Bank Transfer,Monthly,No
+68,57,55,101,3,7,PayPal,Monthly,Yes
+69,21,3,30,191,2,Bank Transfer,Monthly,No
+70,19,51,56,118,3,Credit Card,Yearly,No
+71,23,31,110,19,9,PayPal,Monthly,No
+72,59,40,196,23,5,PayPal,Monthly,No
+73,21,37,93,413,9,Credit Card,Monthly,No
+74,46,36,15,30,2,PayPal,Monthly,No
+75,35,24,156,295,1,PayPal,Yearly,No
+76,43,31,194,108,5,Bank Transfer,Yearly,No
+77,61,6,140,367,4,Credit Card,Monthly,No
+78,51,2,10,281,9,Credit Card,Yearly,No
+79,27,20,67,128,4,Credit Card,Yearly,No
+80,53,28,133,229,9,Credit Card,Yearly,No
+81,31,11,175,111,4,Credit Card,Yearly,No
+82,48,4,24,136,9,PayPal,Yearly,No
+83,65,15,171,362,4,Bank Transfer,Yearly,No
+84,32,6,198,186,2,Credit Card,Monthly,Yes
+85,25,54,172,144,6,Bank Transfer,Monthly,Yes
+86,31,49,73,72,5,Bank Transfer,Monthly,No
+87,40,30,34,129,3,PayPal,Monthly,No
+88,57,56,33,364,1,Credit Card,Monthly,Yes
+89,38,38,21,261,8,PayPal,Yearly,No
+90,33,51,27,3,0,Credit Card,Monthly,Yes
+91,62,57,24,449,3,PayPal,Monthly,No
+92,35,2,36,388,0,Bank Transfer,Yearly,No
+93,64,15,81,104,5,Credit Card,Yearly,Yes
+94,41,11,69,483,3,Bank Transfer,Monthly,Yes
+95,43,8,183,224,4,Bank Transfer,Yearly,No
+96,42,26,154,320,4,PayPal,Yearly,No
+97,62,51,102,362,8,Credit Card,Yearly,No
+98,58,45,62,354,0,Bank Transfer,Yearly,No
+99,46,44,17,491,1,PayPal,Monthly,No
+100,32,5,88,473,5,Credit Card,Yearly,Yes
+101,62,6,36,10,4,Credit Card,Monthly,No
+102,18,26,183,405,6,Bank Transfer,Monthly,Yes
+103,42,54,59,384,2,Credit Card,Yearly,No
+104,24,4,140,302,2,Bank Transfer,Yearly,No
+105,26,19,102,231,9,Credit Card,Yearly,No
+106,41,20,181,219,1,PayPal,Monthly,Yes
+107,18,33,190,411,2,Bank Transfer,Yearly,No
+108,61,20,33,66,9,Bank Transfer,Yearly,Yes
+109,25,49,69,425,0,Credit Card,Yearly,Yes
+110,41,12,131,112,4,Credit Card,Yearly,No
+111,28,47,140,13,4,Bank Transfer,Yearly,Yes
+112,68,1,157,393,6,Credit Card,Monthly,No
+113,34,26,55,420,3,PayPal,Yearly,Yes
+114,25,14,24,86,2,Credit Card,Yearly,No
+115,52,38,162,234,0,PayPal,Yearly,No
+116,52,37,26,90,7,PayPal,Monthly,No
+117,50,11,135,314,2,PayPal,Yearly,No
+118,22,36,93,54,1,PayPal,Monthly,No
+119,59,13,18,12,3,PayPal,Monthly,No
+120,56,43,175,209,2,Credit Card,Yearly,No
+121,58,3,185,462,0,PayPal,Yearly,No
+122,45,33,197,14,2,Credit Card,Yearly,No
+123,24,6,72,121,1,PayPal,Monthly,No
+124,26,50,126,418,7,Bank Transfer,Monthly,No
+125,25,56,139,437,5,PayPal,Monthly,No
+126,29,10,97,377,8,Bank Transfer,Monthly,No
+127,51,5,81,20,7,PayPal,Monthly,No
+128,50,23,148,75,9,PayPal,Monthly,Yes
+129,65,10,73,400,2,PayPal,Yearly,Yes
+130,40,44,81,243,4,Bank Transfer,Yearly,No
+131,41,2,30,223,6,Bank Transfer,Monthly,No
+132,54,13,27,70,4,PayPal,Yearly,No
+133,52,40,73,312,7,Credit Card,Yearly,No
+134,61,2,91,211,4,PayPal,Monthly,No
+135,57,20,119,101,0,Bank Transfer,Monthly,Yes
+136,39,1,104,186,4,PayPal,Yearly,Yes
+137,44,37,175,132,3,Bank Transfer,Monthly,No
+138,52,9,41,111,5,Bank Transfer,Monthly,No
+139,18,17,20,381,2,Bank Transfer,Yearly,No
+140,52,9,54,132,4,PayPal,Monthly,No
+141,54,11,42,20,1,Bank Transfer,Yearly,No
+142,64,15,111,394,5,Bank Transfer,Yearly,No
+143,31,24,178,24,5,PayPal,Yearly,No
+144,20,38,145,227,4,Bank Transfer,Yearly,Yes
+145,18,55,20,154,5,PayPal,Yearly,No
+146,22,35,188,293,6,Bank Transfer,Monthly,No
+147,43,30,97,230,4,Credit Card,Monthly,No
+148,31,31,50,469,0,Credit Card,Monthly,Yes
+149,56,49,154,310,7,Bank Transfer,Monthly,No
+150,44,5,85,488,3,Credit Card,Yearly,No
+151,26,44,130,359,8,PayPal,Yearly,No
+152,32,50,55,405,9,Credit Card,Monthly,Yes
+153,32,14,169,202,5,Bank Transfer,Yearly,No
+154,43,53,89,38,0,Bank Transfer,Monthly,No
+155,59,56,63,430,2,PayPal,Monthly,No
+156,30,11,95,260,2,Bank Transfer,Monthly,No
+157,68,9,101,188,9,PayPal,Yearly,No
+158,49,34,157,57,3,Credit Card,Yearly,No
+159,56,12,170,429,5,Credit Card,Yearly,No
+160,66,35,177,20,6,PayPal,Yearly,No
+161,69,35,169,273,9,PayPal,Monthly,Yes
+162,49,1,106,119,3,Bank Transfer,Yearly,No
+163,21,40,11,71,5,Credit Card,Yearly,Yes
+164,47,22,42,4,0,PayPal,Yearly,No
+165,54,29,167,221,7,Credit Card,Monthly,Yes
+166,40,8,170,14,6,PayPal,Monthly,Yes
+167,56,11,86,3,8,Credit Card,Yearly,No
+168,62,41,125,216,2,Bank Transfer,Yearly,No
+169,32,37,163,229,1,Credit Card,Yearly,No
+170,60,14,159,336,0,Credit Card,Yearly,Yes
+171,46,30,112,186,2,Credit Card,Monthly,No
+172,53,35,175,55,4,Credit Card,Yearly,No
+173,30,21,112,388,1,Credit Card,Yearly,No
+174,49,37,99,376,2,Bank Transfer,Yearly,No
+175,24,5,183,254,3,PayPal,Monthly,Yes
+176,68,19,131,24,6,Credit Card,Monthly,No
+177,39,59,152,162,2,Bank Transfer,Yearly,Yes
+178,45,14,115,158,8,Credit Card,Yearly,No
+179,19,26,128,82,7,Credit Card,Yearly,No
+180,59,4,181,403,3,PayPal,Yearly,No
+181,62,25,58,159,0,Credit Card,Yearly,Yes
+182,23,45,113,188,0,Bank Transfer,Monthly,No
+183,45,42,70,60,0,Bank Transfer,Monthly,Yes
+184,45,25,132,403,0,PayPal,Monthly,No
+185,61,18,143,305,7,Credit Card,Yearly,No
+186,61,40,18,319,2,Bank Transfer,Monthly,No
+187,37,8,15,366,5,Credit Card,Monthly,Yes
+188,47,39,82,211,2,Credit Card,Monthly,Yes
+189,28,40,112,406,4,Credit Card,Yearly,No
+190,45,14,169,152,6,PayPal,Yearly,Yes
+191,42,32,50,109,1,Credit Card,Monthly,Yes
+192,56,51,123,76,5,Bank Transfer,Yearly,No
+193,50,38,17,30,5,Credit Card,Monthly,Yes
+194,18,33,81,314,2,Bank Transfer,Monthly,Yes
+195,44,23,187,486,5,Credit Card,Monthly,No
+196,69,15,101,117,9,Bank Transfer,Monthly,No
+197,30,33,71,415,9,Bank Transfer,Yearly,Yes
+198,58,25,93,356,4,Credit Card,Yearly,No
+199,20,17,71,192,1,Credit Card,Yearly,No
+200,56,33,120,19,8,Bank Transfer,Yearly,No
+201,23,47,136,432,7,PayPal,Monthly,No
+202,25,55,16,173,2,Credit Card,Yearly,Yes
+203,44,2,93,228,7,PayPal,Monthly,No
+204,26,14,141,350,8,Credit Card,Yearly,No
+205,54,53,143,183,2,Credit Card,Yearly,No
+206,50,40,67,113,2,Credit Card,Yearly,No
+207,68,40,31,183,1,Credit Card,Monthly,No
+208,59,51,163,481,7,PayPal,Monthly,No
+209,61,39,136,146,9,Credit Card,Monthly,No
+210,41,51,12,319,0,Bank Transfer,Monthly,No
+211,32,6,136,116,7,Bank Transfer,Yearly,Yes
+212,49,6,50,113,6,PayPal,Monthly,Yes
+213,49,3,197,251,6,Credit Card,Monthly,No
+214,41,7,115,476,2,Bank Transfer,Yearly,No
+215,58,51,23,251,0,PayPal,Yearly,No
+216,69,8,21,303,3,Credit Card,Monthly,No
+217,66,42,96,459,8,Bank Transfer,Yearly,No
+218,66,52,21,313,4,Bank Transfer,Monthly,Yes
+219,69,15,150,118,0,PayPal,Yearly,No
+220,29,47,34,301,4,Credit Card,Monthly,Yes
+221,56,29,54,161,7,Credit Card,Monthly,No
+222,19,33,131,401,7,Bank Transfer,Monthly,No
+223,20,52,156,198,4,Bank Transfer,Monthly,No
+224,66,30,64,260,8,Bank Transfer,Monthly,No
+225,54,39,109,148,0,Credit Card,Yearly,Yes
+226,66,27,182,240,3,PayPal,Monthly,No
+227,34,36,145,47,2,PayPal,Monthly,No
+228,66,29,128,475,1,Credit Card,Monthly,No
+229,19,38,62,399,7,PayPal,Monthly,No
+230,19,57,192,198,6,Bank Transfer,Monthly,No
+231,45,33,41,47,8,PayPal,Yearly,No
+232,40,37,60,78,1,PayPal,Yearly,No
+233,54,27,53,124,3,PayPal,Monthly,No
+234,49,55,91,75,5,Bank Transfer,Yearly,No
+235,50,33,155,359,2,Credit Card,Monthly,No
+236,18,4,159,137,7,Bank Transfer,Yearly,No
+237,36,22,46,90,2,Credit Card,Yearly,No
+238,19,2,105,400,1,Credit Card,Monthly,No
+239,61,10,65,325,2,Credit Card,Yearly,No
+240,43,5,114,61,5,PayPal,Yearly,Yes
+241,49,59,68,138,1,PayPal,Monthly,No
+242,23,10,140,50,7,Credit Card,Monthly,Yes
+243,49,33,165,259,0,Credit Card,Yearly,Yes
+244,21,54,44,461,6,PayPal,Yearly,No
+245,28,38,198,107,1,Bank Transfer,Yearly,No
+246,34,13,102,113,9,Credit Card,Monthly,Yes
+247,55,31,191,350,5,Bank Transfer,Yearly,Yes
+248,41,47,106,254,1,PayPal,Yearly,Yes
+249,22,36,144,118,1,Credit Card,Yearly,No
+250,69,45,85,493,9,Bank Transfer,Monthly,Yes
+251,51,24,58,198,7,Bank Transfer,Monthly,Yes
+252,23,52,103,337,1,Bank Transfer,Monthly,No
+253,39,56,168,365,6,PayPal,Monthly,No
+254,28,15,195,51,2,PayPal,Yearly,No
+255,65,29,198,245,7,Bank Transfer,Monthly,Yes
+256,33,8,33,403,6,Bank Transfer,Yearly,No
+257,50,5,157,426,7,PayPal,Yearly,No
+258,26,29,46,35,6,Bank Transfer,Yearly,No
+259,23,47,13,302,5,Bank Transfer,Yearly,No
+260,33,4,117,410,6,PayPal,Monthly,No
+261,46,12,135,499,4,Bank Transfer,Monthly,Yes
+262,20,45,29,69,6,Bank Transfer,Monthly,No
+263,37,2,197,349,0,Bank Transfer,Monthly,No
+264,53,27,161,320,0,PayPal,Monthly,No
+265,36,31,59,421,8,Bank Transfer,Yearly,Yes
+266,43,51,186,468,4,PayPal,Monthly,Yes
+267,20,51,188,49,4,PayPal,Monthly,No
+268,36,36,105,405,2,Credit Card,Monthly,Yes
+269,37,36,114,74,4,Credit Card,Monthly,Yes
+270,49,26,173,192,2,Bank Transfer,Yearly,No
+271,24,43,126,261,8,PayPal,Yearly,No
+272,69,27,107,356,8,Credit Card,Yearly,No
+273,58,5,75,70,5,Bank Transfer,Yearly,No
+274,50,20,88,90,0,Credit Card,Yearly,No
+275,57,11,171,260,6,Credit Card,Monthly,Yes
+276,56,10,173,126,6,PayPal,Yearly,Yes
+277,35,40,15,231,9,PayPal,Yearly,No
+278,57,38,48,295,9,Credit Card,Yearly,No
+279,18,6,179,498,3,Credit Card,Monthly,No
+280,28,8,124,419,7,PayPal,Monthly,Yes
+281,45,23,195,129,5,Bank Transfer,Yearly,No
+282,42,47,134,280,3,PayPal,Monthly,No
+283,67,26,21,313,3,Credit Card,Monthly,No
+284,40,46,140,100,1,Bank Transfer,Yearly,No
+285,48,43,27,326,1,Credit Card,Monthly,No
+286,47,12,49,297,3,Bank Transfer,Monthly,No
+287,59,26,30,182,4,Credit Card,Monthly,No
+288,52,13,152,174,7,Bank Transfer,Yearly,Yes
+289,24,40,108,316,5,Bank Transfer,Yearly,No
+290,33,18,35,364,3,Credit Card,Yearly,No
+291,43,25,17,188,6,Bank Transfer,Monthly,Yes
+292,65,33,109,57,7,PayPal,Yearly,No
+293,69,47,96,31,1,Credit Card,Monthly,No
+294,66,40,51,84,6,PayPal,Monthly,No
+295,19,43,181,152,1,Credit Card,Monthly,No
+296,18,12,23,473,1,Bank Transfer,Yearly,Yes
+297,65,44,87,36,7,Bank Transfer,Yearly,No
+298,29,36,11,213,1,Bank Transfer,Yearly,No
+299,22,48,128,414,8,Credit Card,Yearly,No
+300,54,4,46,408,0,PayPal,Monthly,No
+301,49,5,78,364,8,PayPal,Yearly,No
+302,26,56,175,106,0,Credit Card,Monthly,No
+303,58,37,50,414,9,Credit Card,Yearly,No
+304,52,8,71,342,9,PayPal,Yearly,No
+305,36,42,69,220,1,PayPal,Yearly,Yes
+306,65,49,134,391,5,PayPal,Monthly,No
+307,33,28,120,163,5,PayPal,Monthly,No
+308,20,31,23,439,0,Credit Card,Monthly,Yes
+309,37,58,93,220,6,Credit Card,Monthly,No
+310,41,9,139,270,7,Bank Transfer,Monthly,Yes
+311,50,54,79,120,1,PayPal,Yearly,Yes
+312,41,51,154,394,7,Bank Transfer,Monthly,No
+313,69,29,132,336,8,Credit Card,Monthly,Yes
+314,28,14,98,400,5,Credit Card,Monthly,Yes
+315,66,40,37,182,4,Bank Transfer,Monthly,Yes
+316,25,41,75,479,8,PayPal,Yearly,No
+317,53,22,172,106,8,PayPal,Monthly,Yes
+318,55,11,14,217,0,PayPal,Yearly,No
+319,57,23,177,205,2,PayPal,Yearly,Yes
+320,37,1,193,70,8,Bank Transfer,Yearly,No
+321,52,46,173,44,1,Bank Transfer,Monthly,No
+322,65,37,54,329,3,Credit Card,Yearly,No
+323,42,21,160,301,3,PayPal,Monthly,No
+324,52,26,56,228,1,PayPal,Monthly,No
+325,42,46,40,184,2,PayPal,Monthly,No
+326,46,36,148,107,2,Bank Transfer,Monthly,No
+327,35,54,19,84,0,PayPal,Monthly,Yes
+328,63,23,127,338,5,Bank Transfer,Yearly,No
+329,35,57,23,250,7,PayPal,Yearly,No
+330,19,1,89,363,2,PayPal,Monthly,No
+331,52,54,102,441,4,Credit Card,Yearly,No
+332,33,55,19,21,0,PayPal,Monthly,No
+333,58,51,85,196,9,PayPal,Yearly,No
+334,53,40,103,178,6,Credit Card,Yearly,Yes
+335,50,15,114,417,9,Bank Transfer,Yearly,Yes
+336,21,21,10,475,0,Bank Transfer,Yearly,Yes
+337,50,47,142,7,8,PayPal,Yearly,No
+338,31,9,29,70,7,Bank Transfer,Monthly,No
+339,38,53,17,127,6,PayPal,Monthly,No
+340,65,9,180,399,9,Credit Card,Yearly,No
+341,37,10,10,466,6,Credit Card,Monthly,No
+342,25,52,66,160,4,PayPal,Yearly,No
+343,24,57,73,248,4,Credit Card,Monthly,No
+344,20,53,127,203,4,Credit Card,Yearly,No
+345,34,26,37,148,0,PayPal,Yearly,No
+346,50,41,130,472,7,PayPal,Yearly,No
+347,65,35,116,143,0,Credit Card,Monthly,No
+348,29,52,174,432,3,Bank Transfer,Monthly,No
+349,68,25,184,199,8,Bank Transfer,Yearly,No
+350,39,26,174,405,8,PayPal,Yearly,No
+351,39,11,58,426,4,PayPal,Monthly,No
+352,63,38,129,154,3,Bank Transfer,Monthly,Yes
+353,47,2,53,492,2,Credit Card,Monthly,No
+354,55,7,65,376,2,Bank Transfer,Monthly,Yes
+355,55,18,165,384,4,Bank Transfer,Monthly,No
+356,62,27,120,142,9,Bank Transfer,Yearly,No
+357,68,34,143,313,0,Bank Transfer,Monthly,No
+358,25,27,117,165,4,PayPal,Yearly,Yes
+359,44,17,198,314,5,PayPal,Yearly,No
+360,44,43,157,21,6,Credit Card,Monthly,No
+361,51,59,123,82,8,Credit Card,Monthly,Yes
+362,38,44,87,69,2,Credit Card,Yearly,No
+363,47,59,139,131,1,Credit Card,Monthly,No
+364,50,51,46,87,2,Bank Transfer,Yearly,No
+365,45,54,29,218,8,PayPal,Monthly,Yes
+366,64,24,35,421,6,PayPal,Monthly,No
+367,50,25,38,472,8,Credit Card,Monthly,No
+368,22,7,10,305,1,Credit Card,Yearly,No
+369,65,52,128,403,4,Bank Transfer,Monthly,No
+370,36,6,44,371,3,Bank Transfer,Yearly,Yes
+371,21,53,68,345,1,Credit Card,Monthly,Yes
+372,52,24,78,341,8,PayPal,Yearly,No
+373,66,33,170,384,8,PayPal,Monthly,No
+374,34,49,188,396,5,PayPal,Yearly,Yes
+375,61,29,21,445,5,Credit Card,Yearly,Yes
+376,45,43,29,425,7,PayPal,Yearly,No
+377,47,22,190,161,5,Bank Transfer,Yearly,Yes
+378,46,26,52,178,0,Bank Transfer,Yearly,Yes
+379,63,28,135,117,3,Credit Card,Yearly,No
+380,23,50,59,196,6,Bank Transfer,Monthly,Yes
+381,52,21,38,383,1,Credit Card,Yearly,No
+382,58,49,194,490,8,PayPal,Yearly,No
+383,54,7,48,327,7,PayPal,Yearly,No
+384,41,17,193,86,7,PayPal,Monthly,No
+385,46,20,180,289,6,Bank Transfer,Monthly,No
+386,66,41,187,81,3,Credit Card,Monthly,No
+387,63,49,160,152,1,PayPal,Yearly,No
+388,48,20,181,61,2,Credit Card,Monthly,No
+389,52,54,47,61,5,PayPal,Monthly,No
+390,50,22,93,354,4,Bank Transfer,Yearly,No
+391,69,28,160,28,7,Bank Transfer,Yearly,No
+392,38,40,137,442,5,Credit Card,Monthly,Yes
+393,49,49,135,43,5,Bank Transfer,Yearly,No
+394,40,7,54,169,0,Bank Transfer,Yearly,Yes
+395,50,1,61,423,3,Credit Card,Yearly,No
+396,20,32,89,86,4,PayPal,Yearly,No
+397,35,13,187,177,2,Bank Transfer,Monthly,No
+398,42,30,133,17,8,Credit Card,Yearly,No
+399,59,23,128,98,0,Bank Transfer,Monthly,No
+400,48,51,17,454,5,Bank Transfer,Monthly,No
+401,20,59,94,494,5,Bank Transfer,Monthly,Yes
+402,57,56,138,198,9,Bank Transfer,Monthly,No
+403,63,19,17,98,4,Credit Card,Yearly,No
+404,41,32,166,65,4,Credit Card,Yearly,No
+405,67,30,105,330,9,Credit Card,Yearly,No
+406,49,29,111,341,4,Bank Transfer,Monthly,Yes
+407,64,49,14,5,5,Bank Transfer,Monthly,No
+408,39,45,95,2,7,Bank Transfer,Monthly,No
+409,40,29,184,22,1,Credit Card,Yearly,No
+410,19,30,43,112,5,Bank Transfer,Monthly,No
+411,44,16,64,57,0,PayPal,Yearly,No
+412,59,40,128,66,3,Bank Transfer,Yearly,No
+413,19,19,180,330,9,PayPal,Yearly,No
+414,43,18,167,98,2,Bank Transfer,Yearly,No
+415,34,1,123,144,8,Credit Card,Monthly,Yes
+416,57,14,154,368,2,Bank Transfer,Yearly,No
+417,50,51,35,435,5,PayPal,Monthly,No
+418,26,47,145,125,0,PayPal,Yearly,Yes
+419,60,50,56,167,5,Bank Transfer,Monthly,Yes
+420,65,2,122,86,3,PayPal,Monthly,No
+421,56,54,85,76,7,PayPal,Yearly,No
+422,46,28,81,344,8,Credit Card,Yearly,Yes
+423,59,49,98,495,3,Bank Transfer,Yearly,No
+424,43,50,55,424,9,Bank Transfer,Monthly,No
+425,52,30,42,294,9,Bank Transfer,Yearly,Yes
+426,67,38,10,444,5,PayPal,Yearly,Yes
+427,42,51,156,59,0,Bank Transfer,Monthly,No
+428,41,4,40,138,3,Bank Transfer,Yearly,No
+429,30,1,151,99,6,Credit Card,Monthly,No
+430,24,8,62,192,0,Credit Card,Yearly,Yes
+431,53,29,57,243,7,Credit Card,Monthly,No
+432,62,55,78,319,9,PayPal,Monthly,No
+433,37,39,114,49,5,Bank Transfer,Yearly,No
+434,18,3,99,448,4,Credit Card,Monthly,No
+435,25,32,199,32,9,Credit Card,Yearly,No
+436,63,10,72,391,8,Credit Card,Yearly,No
+437,33,10,82,277,1,Bank Transfer,Monthly,No
+438,31,19,170,20,4,Bank Transfer,Yearly,Yes
+439,29,46,178,154,5,Bank Transfer,Monthly,No
+440,68,34,98,383,6,PayPal,Monthly,Yes
+441,40,33,185,68,4,PayPal,Monthly,No
+442,32,23,22,366,8,Credit Card,Monthly,No
+443,45,55,82,372,0,Bank Transfer,Monthly,No
+444,51,28,86,214,6,Credit Card,Monthly,No
+445,19,32,168,143,9,Bank Transfer,Monthly,No
+446,49,50,77,376,6,Bank Transfer,Monthly,No
+447,40,7,107,232,3,Bank Transfer,Yearly,No
+448,39,29,134,213,8,PayPal,Yearly,No
+449,68,8,111,79,4,PayPal,Monthly,No
+450,42,1,141,214,3,Bank Transfer,Yearly,No
+451,39,57,111,116,6,Credit Card,Yearly,No
+452,39,55,28,92,3,Bank Transfer,Yearly,No
+453,66,3,91,270,2,Bank Transfer,Yearly,No
+454,69,24,150,411,8,Credit Card,Yearly,Yes
+455,59,23,32,381,7,Bank Transfer,Yearly,Yes
+456,23,59,92,489,0,Credit Card,Monthly,No
+457,32,8,118,168,6,PayPal,Yearly,Yes
+458,60,54,84,58,8,PayPal,Yearly,No
+459,54,57,138,284,7,Credit Card,Yearly,No
+460,50,47,97,26,7,PayPal,Yearly,Yes
+461,25,37,63,369,5,PayPal,Monthly,No
+462,61,3,98,447,3,Credit Card,Monthly,Yes
+463,61,51,152,66,7,PayPal,Monthly,No
+464,22,33,74,409,2,Bank Transfer,Monthly,Yes
+465,56,28,85,248,8,Bank Transfer,Yearly,Yes
+466,21,47,152,254,1,Credit Card,Monthly,No
+467,23,8,158,387,1,PayPal,Monthly,No
+468,62,34,156,456,6,Bank Transfer,Monthly,No
+469,49,35,69,44,9,Bank Transfer,Monthly,No
+470,69,32,102,97,3,PayPal,Yearly,No
+471,47,24,170,42,9,PayPal,Monthly,No
+472,64,14,58,227,7,Bank Transfer,Yearly,No
+473,52,32,44,262,8,Bank Transfer,Monthly,No
+474,57,56,181,167,6,Credit Card,Yearly,No
+475,69,46,111,436,4,Credit Card,Yearly,No
+476,33,43,20,279,7,Bank Transfer,Monthly,No
+477,30,16,108,89,3,Credit Card,Monthly,No
+478,67,4,119,379,1,Bank Transfer,Monthly,No
+479,59,52,83,178,5,Bank Transfer,Monthly,No
+480,47,37,183,427,8,Credit Card,Yearly,No
+481,36,54,18,403,0,Credit Card,Yearly,No
+482,34,21,12,197,9,PayPal,Monthly,No
+483,36,14,94,307,6,PayPal,Monthly,Yes
+484,45,31,35,267,9,PayPal,Yearly,No
+485,43,55,81,268,8,Bank Transfer,Monthly,Yes
+486,54,48,57,74,9,Credit Card,Yearly,No
+487,43,18,165,8,8,Bank Transfer,Monthly,Yes
+488,40,7,126,408,9,Credit Card,Yearly,Yes
+489,26,10,163,476,2,Bank Transfer,Yearly,No
+490,29,7,162,297,4,PayPal,Yearly,No
+491,18,33,21,164,7,PayPal,Yearly,Yes
+492,18,23,142,485,7,PayPal,Yearly,No
+493,64,21,57,85,3,Bank Transfer,Monthly,No
+494,51,19,46,72,0,Credit Card,Yearly,Yes
+495,49,48,53,55,0,Credit Card,Monthly,Yes
+496,65,19,24,393,3,PayPal,Yearly,No
+497,42,36,52,47,5,PayPal,Yearly,No
+498,57,29,185,399,7,PayPal,Monthly,Yes
+499,62,18,96,432,5,PayPal,Monthly,No
+500,18,2,79,238,8,Credit Card,Monthly,No
+501,33,1,55,104,8,Bank Transfer,Monthly,No
+502,56,47,117,210,1,Bank Transfer,Yearly,No
+503,22,5,132,42,9,Bank Transfer,Monthly,No
+504,39,20,180,316,0,Bank Transfer,Yearly,No
+505,46,11,30,468,1,PayPal,Monthly,No
+506,20,42,160,454,4,PayPal,Monthly,No
+507,29,2,116,268,3,PayPal,Yearly,No
+508,43,3,89,386,3,Bank Transfer,Yearly,No
+509,33,23,56,263,8,PayPal,Monthly,Yes
+510,68,55,126,336,7,PayPal,Yearly,No
+511,54,12,133,387,5,Credit Card,Yearly,No
+512,39,20,152,365,0,Credit Card,Yearly,No
+513,46,5,34,259,1,PayPal,Yearly,No
+514,31,37,45,283,5,Credit Card,Yearly,No
+515,45,38,60,114,1,Credit Card,Yearly,Yes
+516,22,30,24,363,9,PayPal,Yearly,No
+517,64,9,77,40,4,PayPal,Yearly,No
+518,66,34,30,486,4,PayPal,Monthly,Yes
+519,47,53,150,417,5,PayPal,Yearly,Yes
+520,63,44,28,220,5,Bank Transfer,Monthly,No
+521,69,35,43,129,5,Bank Transfer,Yearly,Yes
+522,22,52,87,8,1,PayPal,Yearly,No
+523,29,58,134,101,9,Credit Card,Yearly,No
+524,33,22,126,416,2,PayPal,Yearly,No
+525,43,44,61,380,5,PayPal,Monthly,No
+526,43,24,36,176,7,Credit Card,Monthly,No
+527,65,17,166,107,0,Bank Transfer,Yearly,Yes
+528,38,10,165,101,0,PayPal,Monthly,No
+529,56,30,44,260,1,PayPal,Yearly,No
+530,53,56,145,478,5,Bank Transfer,Yearly,No
+531,50,59,153,454,8,Bank Transfer,Monthly,No
+532,47,46,115,366,3,Credit Card,Monthly,No
+533,54,23,173,246,2,Bank Transfer,Yearly,No
+534,40,32,167,275,7,Bank Transfer,Yearly,No
+535,27,17,155,32,9,Bank Transfer,Monthly,No
+536,22,50,11,137,8,Credit Card,Yearly,No
+537,53,51,186,12,4,Bank Transfer,Monthly,No
+538,51,17,86,395,8,Bank Transfer,Yearly,No
+539,69,14,141,302,1,Credit Card,Yearly,No
+540,48,9,99,375,2,Bank Transfer,Monthly,No
+541,27,40,98,16,6,Bank Transfer,Monthly,No
+542,36,2,103,129,6,Credit Card,Monthly,No
+543,49,45,16,63,5,PayPal,Yearly,No
+544,18,25,104,109,5,Credit Card,Yearly,No
+545,22,39,117,375,1,Bank Transfer,Yearly,No
+546,62,9,83,21,9,Bank Transfer,Yearly,No
+547,21,54,48,158,5,Bank Transfer,Monthly,No
+548,33,22,150,269,3,Credit Card,Yearly,No
+549,41,43,168,162,2,Bank Transfer,Yearly,No
+550,33,46,80,260,1,Bank Transfer,Yearly,No
+551,19,4,65,412,0,Credit Card,Monthly,No
+552,66,26,179,102,4,PayPal,Yearly,Yes
+553,45,58,198,223,1,PayPal,Yearly,No
+554,49,29,51,59,1,Bank Transfer,Monthly,No
+555,44,45,193,247,6,Credit Card,Yearly,No
+556,37,34,45,128,7,Bank Transfer,Yearly,No
+557,41,23,93,283,9,Credit Card,Monthly,No
+558,29,37,127,325,7,Credit Card,Yearly,No
+559,67,11,16,25,3,PayPal,Yearly,No
+560,52,6,63,131,0,PayPal,Yearly,No
+561,50,18,138,353,6,Credit Card,Monthly,No
+562,50,21,181,196,0,Bank Transfer,Yearly,Yes
+563,68,42,129,281,3,PayPal,Yearly,No
+564,60,36,182,404,7,Bank Transfer,Monthly,No
+565,54,41,115,418,1,PayPal,Monthly,No
+566,29,38,56,154,5,PayPal,Yearly,No
+567,20,34,132,382,5,Bank Transfer,Yearly,No
+568,18,17,150,133,8,PayPal,Yearly,Yes
+569,50,37,128,227,4,PayPal,Yearly,No
+570,57,25,159,189,9,Bank Transfer,Monthly,Yes
+571,27,38,127,476,3,PayPal,Yearly,No
+572,60,58,30,477,4,PayPal,Monthly,No
+573,61,12,146,265,9,PayPal,Monthly,No
+574,46,23,35,372,4,Bank Transfer,Yearly,No
+575,30,53,18,486,7,Credit Card,Yearly,Yes
+576,29,42,24,434,9,Bank Transfer,Monthly,Yes
+577,48,22,19,134,7,Credit Card,Monthly,No
+578,63,21,131,211,1,PayPal,Yearly,Yes
+579,19,27,130,60,6,Credit Card,Monthly,No
+580,68,57,134,428,7,Bank Transfer,Yearly,Yes
+581,67,31,179,377,5,Bank Transfer,Yearly,No
+582,52,6,81,395,4,PayPal,Monthly,No
+583,40,27,161,450,8,Credit Card,Monthly,Yes
+584,34,40,58,431,2,PayPal,Yearly,No
+585,43,34,163,364,9,PayPal,Monthly,No
+586,25,12,100,364,3,Bank Transfer,Yearly,Yes
+587,46,45,46,457,8,Credit Card,Yearly,No
+588,43,57,77,213,5,Credit Card,Yearly,No
+589,27,53,59,216,7,Credit Card,Monthly,No
+590,43,7,161,226,6,Credit Card,Yearly,Yes
+591,51,10,28,470,1,PayPal,Yearly,No
+592,68,45,109,131,2,PayPal,Yearly,No
+593,58,17,69,76,0,Bank Transfer,Yearly,Yes
+594,24,26,176,476,8,PayPal,Yearly,No
+595,21,21,98,286,6,PayPal,Yearly,No
+596,67,28,155,474,0,Bank Transfer,Yearly,No
+597,62,58,156,496,2,Bank Transfer,Yearly,No
+598,28,46,173,277,3,Bank Transfer,Yearly,Yes
+599,46,2,192,156,3,PayPal,Yearly,No
+600,53,54,78,248,4,PayPal,Yearly,Yes
+601,42,43,184,218,2,Bank Transfer,Monthly,Yes
+602,38,1,58,190,2,Bank Transfer,Yearly,No
+603,53,51,117,417,0,Bank Transfer,Yearly,No
+604,27,53,170,469,6,PayPal,Yearly,No
+605,54,36,128,163,9,PayPal,Monthly,Yes
+606,26,51,158,180,0,Credit Card,Yearly,No
+607,41,26,159,34,1,PayPal,Monthly,No
+608,52,29,185,41,3,PayPal,Yearly,Yes
+609,66,21,46,307,3,PayPal,Yearly,No
+610,52,11,152,431,4,Bank Transfer,Monthly,Yes
+611,65,40,172,338,1,PayPal,Yearly,No
+612,53,11,169,314,3,Bank Transfer,Monthly,No
+613,35,36,20,75,0,Credit Card,Monthly,No
+614,66,49,147,441,1,Credit Card,Yearly,No
+615,56,59,87,279,0,Bank Transfer,Yearly,No
+616,49,39,86,176,9,Bank Transfer,Yearly,Yes
+617,41,40,194,384,9,Bank Transfer,Yearly,No
+618,40,35,162,150,3,PayPal,Monthly,No
+619,49,54,11,273,3,Credit Card,Monthly,No
+620,54,34,73,325,6,Bank Transfer,Yearly,No
+621,29,55,44,108,9,PayPal,Monthly,No
+622,66,47,16,139,8,Credit Card,Monthly,No
+623,30,24,94,350,8,PayPal,Yearly,No
+624,40,54,155,271,4,Credit Card,Monthly,No
+625,42,22,76,347,9,PayPal,Monthly,No
+626,52,5,51,419,0,Credit Card,Yearly,No
+627,58,56,127,289,0,Credit Card,Monthly,No
+628,47,33,134,212,5,PayPal,Yearly,No
+629,34,58,176,381,1,Bank Transfer,Monthly,No
+630,66,36,178,272,7,Credit Card,Yearly,Yes
+631,37,47,33,418,8,Bank Transfer,Monthly,No
+632,65,20,197,66,3,PayPal,Monthly,No
+633,42,19,55,483,4,Bank Transfer,Yearly,Yes
+634,39,35,28,424,7,Bank Transfer,Yearly,Yes
+635,30,52,77,248,2,Bank Transfer,Yearly,No
+636,36,43,111,156,4,Bank Transfer,Yearly,No
+637,66,17,51,47,2,Bank Transfer,Monthly,No
+638,53,59,41,423,9,Credit Card,Monthly,No
+639,29,45,176,454,2,Credit Card,Monthly,No
+640,58,43,118,201,2,Credit Card,Yearly,No
+641,36,34,45,148,6,PayPal,Monthly,Yes
+642,29,9,106,124,6,Bank Transfer,Monthly,Yes
+643,26,26,173,1,6,Credit Card,Yearly,No
+644,24,2,140,456,9,PayPal,Yearly,No
+645,45,53,82,247,7,Credit Card,Monthly,Yes
+646,31,9,145,343,4,Credit Card,Yearly,No
+647,48,9,106,128,4,Bank Transfer,Monthly,Yes
+648,69,40,132,191,3,PayPal,Monthly,No
+649,36,17,79,67,6,Bank Transfer,Yearly,No
+650,64,1,178,4,9,Bank Transfer,Monthly,No
+651,33,25,22,442,3,Credit Card,Yearly,No
+652,22,43,58,409,1,Bank Transfer,Yearly,No
+653,52,40,69,303,3,PayPal,Monthly,No
+654,29,42,139,294,7,Bank Transfer,Monthly,No
+655,42,25,197,143,8,Bank Transfer,Monthly,No
+656,69,39,14,191,2,Bank Transfer,Yearly,No
+657,38,35,181,21,6,Credit Card,Monthly,No
+658,53,3,36,227,8,PayPal,Yearly,No
+659,40,50,169,313,3,Credit Card,Yearly,No
+660,33,37,158,117,9,Credit Card,Monthly,Yes
+661,56,44,17,437,2,Credit Card,Yearly,Yes
+662,62,44,59,302,4,Credit Card,Monthly,No
+663,59,51,76,142,0,Credit Card,Monthly,No
+664,56,30,53,484,2,PayPal,Monthly,No
+665,31,38,134,460,7,Bank Transfer,Monthly,Yes
+666,48,34,67,401,7,Credit Card,Monthly,No
+667,22,12,12,39,3,Credit Card,Monthly,No
+668,52,19,95,393,1,PayPal,Monthly,No
+669,40,37,79,355,7,PayPal,Yearly,No
+670,46,44,139,252,7,Bank Transfer,Monthly,No
+671,60,59,181,333,9,PayPal,Yearly,No
+672,28,59,11,207,3,Bank Transfer,Yearly,No
+673,35,49,111,210,2,Credit Card,Yearly,No
+674,64,17,44,115,1,Credit Card,Monthly,No
+675,29,10,107,225,8,Bank Transfer,Yearly,No
+676,26,57,39,134,0,PayPal,Yearly,No
+677,27,55,125,251,6,Bank Transfer,Monthly,Yes
+678,61,49,17,219,4,PayPal,Monthly,Yes
+679,34,47,159,407,7,Credit Card,Yearly,No
+680,55,12,53,443,3,PayPal,Monthly,No
+681,24,16,195,91,6,Bank Transfer,Monthly,No
+682,63,24,45,354,4,Bank Transfer,Monthly,Yes
+683,30,19,86,376,4,Credit Card,Monthly,No
+684,57,8,40,46,8,PayPal,Yearly,No
+685,59,31,56,38,8,PayPal,Monthly,Yes
+686,26,21,64,142,8,PayPal,Monthly,No
+687,67,17,115,100,5,Credit Card,Monthly,Yes
+688,44,23,199,328,5,PayPal,Yearly,No
+689,19,37,167,190,4,Bank Transfer,Yearly,No
+690,22,54,130,35,8,PayPal,Monthly,No
+691,46,16,64,147,9,Credit Card,Monthly,No
+692,54,6,153,30,7,PayPal,Yearly,No
+693,55,8,21,334,6,PayPal,Monthly,No
+694,36,25,154,84,6,Bank Transfer,Monthly,Yes
+695,25,18,153,369,5,PayPal,Yearly,Yes
+696,65,25,149,281,4,Bank Transfer,Monthly,No
+697,62,12,145,424,3,Bank Transfer,Monthly,No
+698,18,15,12,344,2,Credit Card,Yearly,No
+699,39,59,153,270,2,Bank Transfer,Yearly,No
+700,69,26,39,154,5,Bank Transfer,Monthly,No
+701,34,41,32,102,3,Credit Card,Yearly,No
+702,24,45,101,215,5,Bank Transfer,Monthly,No
+703,42,26,124,150,2,Credit Card,Monthly,No
+704,62,47,113,432,3,PayPal,Monthly,No
+705,21,32,127,83,8,Credit Card,Yearly,No
+706,53,10,14,110,4,Bank Transfer,Yearly,Yes
+707,23,16,113,435,6,Credit Card,Monthly,Yes
+708,48,7,117,387,9,Bank Transfer,Monthly,No
+709,36,17,74,426,1,PayPal,Yearly,No
+710,61,23,130,275,4,Credit Card,Yearly,Yes
+711,56,26,39,201,8,PayPal,Yearly,No
+712,44,21,158,284,2,Bank Transfer,Monthly,No
+713,27,22,93,468,8,Bank Transfer,Yearly,No
+714,43,58,159,173,5,PayPal,Yearly,Yes
+715,36,7,41,327,3,Credit Card,Monthly,Yes
+716,56,14,170,206,6,Credit Card,Monthly,No
+717,20,15,25,63,7,Bank Transfer,Monthly,No
+718,62,53,47,73,5,PayPal,Yearly,No
+719,30,7,151,251,4,PayPal,Monthly,No
+720,67,9,45,124,5,Credit Card,Monthly,Yes
+721,45,51,160,375,4,Credit Card,Monthly,Yes
+722,37,48,123,121,7,Credit Card,Monthly,No
+723,45,8,75,275,0,PayPal,Yearly,Yes
+724,25,50,114,431,6,Credit Card,Monthly,No
+725,58,59,94,398,9,Credit Card,Yearly,No
+726,56,23,11,120,9,Bank Transfer,Yearly,Yes
+727,18,29,84,422,1,Credit Card,Yearly,Yes
+728,20,18,76,437,8,Credit Card,Monthly,No
+729,30,31,189,317,0,PayPal,Yearly,No
+730,45,30,199,164,9,PayPal,Monthly,Yes
+731,66,52,160,424,5,Bank Transfer,Monthly,No
+732,42,39,163,465,8,Credit Card,Monthly,No
+733,50,35,64,286,0,Bank Transfer,Yearly,No
+734,55,18,15,265,3,PayPal,Monthly,No
+735,23,59,172,320,3,Bank Transfer,Monthly,No
+736,61,42,159,161,8,PayPal,Monthly,No
+737,62,39,180,376,4,Bank Transfer,Yearly,No
+738,49,17,152,308,4,Bank Transfer,Yearly,No
+739,62,14,95,89,5,Credit Card,Yearly,No
+740,64,31,69,142,0,Bank Transfer,Monthly,Yes
+741,38,24,110,203,0,Credit Card,Yearly,Yes
+742,33,35,21,309,8,Credit Card,Monthly,No
+743,38,44,58,227,2,Credit Card,Monthly,No
+744,28,45,51,489,3,Credit Card,Yearly,No
+745,54,34,175,443,0,Bank Transfer,Monthly,No
+746,53,3,91,334,8,PayPal,Yearly,No
+747,52,37,182,222,7,PayPal,Monthly,No
+748,36,43,44,41,1,PayPal,Yearly,No
+749,37,40,167,196,7,Bank Transfer,Monthly,No
+750,35,26,167,68,6,Credit Card,Monthly,Yes
+751,64,55,143,476,5,PayPal,Monthly,Yes
+752,58,23,76,264,0,Bank Transfer,Monthly,No
+753,66,44,89,2,6,Credit Card,Monthly,Yes
+754,31,39,16,361,9,PayPal,Yearly,No
+755,32,15,189,125,6,Credit Card,Monthly,No
+756,48,56,23,110,8,PayPal,Yearly,No
+757,18,49,82,86,0,PayPal,Yearly,Yes
+758,20,4,152,425,1,PayPal,Yearly,No
+759,33,29,158,120,8,Credit Card,Monthly,No
+760,40,22,172,127,8,Bank Transfer,Monthly,No
+761,28,25,75,255,5,Credit Card,Monthly,No
+762,29,13,100,183,5,PayPal,Yearly,No
+763,27,18,139,16,3,Credit Card,Monthly,No
+764,49,33,172,477,3,Bank Transfer,Monthly,No
+765,33,16,29,62,4,Credit Card,Yearly,Yes
+766,25,45,19,369,2,Bank Transfer,Yearly,No
+767,55,42,34,432,0,Bank Transfer,Yearly,No
+768,29,44,34,158,0,Credit Card,Yearly,No
+769,41,2,63,268,6,PayPal,Yearly,No
+770,45,55,42,35,0,Bank Transfer,Yearly,No
+771,25,35,173,267,0,Credit Card,Monthly,No
+772,45,42,104,64,2,Bank Transfer,Yearly,No
+773,53,34,23,494,9,PayPal,Monthly,No
+774,43,30,74,50,3,Credit Card,Monthly,No
+775,25,59,119,469,3,Credit Card,Monthly,No
+776,67,55,89,255,1,Credit Card,Yearly,No
+777,45,13,63,149,0,PayPal,Monthly,No
+778,45,13,134,325,2,Bank Transfer,Yearly,No
+779,54,18,189,304,3,Credit Card,Yearly,Yes
+780,58,32,140,276,2,Bank Transfer,Monthly,No
+781,53,32,178,357,7,Bank Transfer,Yearly,No
+782,44,35,143,451,9,PayPal,Monthly,No
+783,34,59,34,172,0,Credit Card,Monthly,No
+784,26,39,150,417,1,Bank Transfer,Yearly,No
+785,50,46,126,201,6,Credit Card,Monthly,No
+786,37,52,145,445,3,Credit Card,Monthly,No
+787,30,29,158,393,7,PayPal,Monthly,No
+788,45,49,34,324,2,Credit Card,Yearly,Yes
+789,65,29,88,35,5,Credit Card,Monthly,No
+790,46,53,77,465,8,Bank Transfer,Yearly,No
+791,30,44,182,482,0,PayPal,Yearly,No
+792,63,57,197,216,0,Credit Card,Monthly,No
+793,52,16,21,480,7,Bank Transfer,Monthly,No
+794,23,56,41,65,2,PayPal,Yearly,No
+795,35,44,137,8,4,PayPal,Yearly,No
+796,68,47,105,301,0,Bank Transfer,Monthly,No
+797,22,57,101,343,4,Bank Transfer,Monthly,No
+798,64,10,150,431,5,Bank Transfer,Yearly,No
+799,42,30,40,424,7,Bank Transfer,Yearly,Yes
+800,19,25,87,332,2,Bank Transfer,Yearly,No
+801,27,39,29,438,2,Credit Card,Yearly,Yes
+802,47,20,155,76,9,Credit Card,Yearly,Yes
+803,67,5,69,174,8,PayPal,Monthly,No
+804,62,1,143,47,3,Credit Card,Yearly,Yes
+805,22,30,169,15,3,Credit Card,Yearly,Yes
+806,50,49,102,361,6,Credit Card,Monthly,No
+807,18,3,52,147,1,Bank Transfer,Monthly,Yes
+808,35,45,139,26,7,PayPal,Yearly,Yes
+809,49,14,69,308,5,PayPal,Yearly,No
+810,64,56,160,93,2,PayPal,Monthly,Yes
+811,66,30,40,406,8,PayPal,Yearly,No
+812,28,50,14,232,4,Credit Card,Yearly,Yes
+813,38,4,171,21,7,Credit Card,Monthly,No
+814,43,18,19,307,6,Bank Transfer,Yearly,No
+815,42,37,98,38,7,PayPal,Monthly,No
+816,39,25,139,276,6,Credit Card,Monthly,No
+817,44,48,135,157,2,Credit Card,Monthly,No
+818,66,1,20,179,1,Bank Transfer,Monthly,No
+819,30,53,187,132,6,Bank Transfer,Yearly,Yes
+820,50,46,168,311,2,Bank Transfer,Monthly,No
+821,51,15,65,455,2,Credit Card,Yearly,No
+822,58,9,92,348,1,Credit Card,Yearly,No
+823,52,15,146,28,3,Bank Transfer,Yearly,Yes
+824,18,49,108,260,7,PayPal,Yearly,No
+825,38,57,158,406,0,Bank Transfer,Yearly,No
+826,65,24,82,76,0,Bank Transfer,Monthly,Yes
+827,23,4,165,429,4,Bank Transfer,Monthly,No
+828,45,12,199,67,4,Bank Transfer,Monthly,Yes
+829,34,59,124,342,0,Credit Card,Monthly,No
+830,22,58,16,492,5,PayPal,Yearly,No
+831,48,37,89,194,0,Bank Transfer,Monthly,No
+832,22,37,153,472,4,PayPal,Yearly,No
+833,55,43,106,162,8,PayPal,Yearly,No
+834,20,6,13,347,4,PayPal,Monthly,No
+835,40,39,13,439,5,Bank Transfer,Monthly,No
+836,54,56,112,361,7,Credit Card,Monthly,No
+837,54,46,49,257,0,Bank Transfer,Monthly,No
+838,27,24,26,72,1,PayPal,Yearly,Yes
+839,27,11,110,87,8,PayPal,Yearly,No
+840,36,13,112,422,2,Credit Card,Monthly,Yes
+841,34,34,133,262,5,Bank Transfer,Yearly,No
+842,38,25,61,214,4,PayPal,Yearly,No
+843,31,7,61,153,1,Credit Card,Yearly,No
+844,26,52,173,210,6,PayPal,Monthly,No
+845,63,4,133,401,3,Credit Card,Yearly,No
+846,18,59,175,61,0,Credit Card,Monthly,No
+847,68,8,187,268,3,Bank Transfer,Monthly,No
+848,62,20,72,262,5,PayPal,Yearly,Yes
+849,30,29,125,218,6,Bank Transfer,Yearly,No
+850,21,54,71,283,6,PayPal,Monthly,No
+851,18,53,16,136,6,Bank Transfer,Yearly,No
+852,66,51,164,467,2,PayPal,Yearly,No
+853,57,45,101,380,5,Bank Transfer,Monthly,No
+854,49,46,23,362,7,Credit Card,Monthly,No
+855,51,10,95,449,3,PayPal,Monthly,Yes
+856,45,43,142,441,7,PayPal,Monthly,No
+857,48,34,192,93,1,Credit Card,Yearly,No
+858,25,57,139,109,9,Bank Transfer,Yearly,Yes
+859,56,26,71,241,8,PayPal,Monthly,No
+860,43,41,158,355,8,PayPal,Monthly,No
+861,51,49,88,424,7,Bank Transfer,Monthly,No
+862,20,58,158,142,9,Credit Card,Yearly,No
+863,67,3,147,291,9,Bank Transfer,Monthly,Yes
+864,29,56,67,432,0,Bank Transfer,Yearly,No
+865,18,6,129,237,1,Bank Transfer,Monthly,Yes
+866,61,5,176,340,5,PayPal,Monthly,No
+867,22,5,142,312,9,Credit Card,Monthly,No
+868,47,54,74,177,4,Credit Card,Yearly,No
+869,47,47,22,141,8,Bank Transfer,Yearly,Yes
+870,34,23,190,189,4,PayPal,Yearly,No
+871,65,49,91,486,1,Bank Transfer,Monthly,No
+872,64,9,182,49,9,PayPal,Yearly,Yes
+873,40,35,169,302,3,PayPal,Yearly,No
+874,32,20,173,369,8,PayPal,Monthly,No
+875,54,58,197,190,0,PayPal,Monthly,No
+876,38,49,148,136,0,Credit Card,Yearly,Yes
+877,31,59,158,43,6,PayPal,Yearly,Yes
+878,19,42,61,404,2,PayPal,Yearly,No
+879,28,35,192,380,9,Bank Transfer,Yearly,No
+880,68,50,126,353,1,Bank Transfer,Monthly,Yes
+881,56,18,35,90,8,Credit Card,Monthly,Yes
+882,55,17,43,295,2,Bank Transfer,Monthly,No
+883,51,24,61,341,1,PayPal,Yearly,No
+884,55,3,121,245,7,Bank Transfer,Yearly,Yes
+885,67,32,91,433,9,Credit Card,Monthly,No
+886,51,35,189,192,5,Bank Transfer,Monthly,No
+887,35,38,166,318,5,Bank Transfer,Yearly,Yes
+888,47,13,175,106,9,Credit Card,Yearly,No
+889,32,56,51,363,6,Credit Card,Monthly,No
+890,44,47,30,310,6,PayPal,Monthly,No
+891,68,25,51,382,5,Bank Transfer,Monthly,No
+892,51,9,150,233,3,PayPal,Yearly,No
+893,69,4,122,265,8,Bank Transfer,Yearly,No
+894,55,14,114,344,5,Bank Transfer,Yearly,No
+895,50,37,26,37,3,PayPal,Yearly,No
+896,41,34,129,305,2,Bank Transfer,Yearly,No
+897,32,11,146,41,3,Bank Transfer,Yearly,Yes
+898,47,41,178,17,2,Bank Transfer,Monthly,Yes
+899,59,56,138,344,1,Credit Card,Monthly,No
+900,68,3,139,277,4,PayPal,Yearly,No
+901,34,59,69,307,1,Credit Card,Monthly,Yes
+902,22,28,57,59,5,PayPal,Yearly,No
+903,46,29,38,423,2,PayPal,Monthly,No
+904,21,9,106,183,5,Bank Transfer,Yearly,No
+905,27,3,19,41,9,PayPal,Monthly,Yes
+906,34,25,67,39,8,Credit Card,Monthly,No
+907,27,34,197,397,0,Credit Card,Yearly,No
+908,34,12,30,192,5,Credit Card,Yearly,No
+909,37,42,37,267,8,PayPal,Monthly,No
+910,41,9,43,494,3,Credit Card,Monthly,Yes
+911,22,15,17,147,1,PayPal,Yearly,No
+912,51,40,196,395,3,Credit Card,Monthly,No
+913,23,25,186,333,0,Credit Card,Yearly,Yes
+914,19,5,88,127,2,PayPal,Yearly,No
+915,30,11,154,46,9,Credit Card,Monthly,No
+916,60,59,197,45,8,Bank Transfer,Yearly,No
+917,60,34,96,1,9,PayPal,Monthly,No
+918,65,24,97,168,4,PayPal,Monthly,Yes
+919,28,15,182,108,5,PayPal,Yearly,No
+920,68,38,78,19,2,Bank Transfer,Monthly,No
+921,64,8,169,332,4,PayPal,Yearly,No
+922,40,59,181,72,7,Credit Card,Yearly,No
+923,33,5,96,456,5,Credit Card,Yearly,No
+924,48,48,110,445,3,Credit Card,Monthly,No
+925,28,26,17,109,1,PayPal,Yearly,No
+926,33,18,86,268,8,Credit Card,Monthly,No
+927,25,6,96,445,0,PayPal,Yearly,No
+928,21,37,52,240,0,Credit Card,Yearly,No
+929,57,48,138,417,3,Bank Transfer,Yearly,No
+930,21,13,118,301,6,Bank Transfer,Monthly,No
+931,42,28,188,90,0,Bank Transfer,Monthly,No
+932,20,5,161,103,8,Bank Transfer,Yearly,No
+933,49,13,161,476,3,PayPal,Yearly,No
+934,20,17,26,250,2,Credit Card,Monthly,No
+935,44,50,142,453,0,Bank Transfer,Monthly,No
+936,46,40,157,8,9,PayPal,Monthly,No
+937,49,45,30,153,3,Bank Transfer,Yearly,No
+938,67,32,67,347,8,Bank Transfer,Monthly,Yes
+939,68,29,168,174,9,PayPal,Yearly,Yes
+940,36,51,119,343,5,PayPal,Monthly,No
+941,38,58,148,158,5,Credit Card,Yearly,No
+942,22,3,189,493,0,Credit Card,Yearly,Yes
+943,35,56,152,431,9,Bank Transfer,Yearly,Yes
+944,45,40,144,215,1,Bank Transfer,Monthly,Yes
+945,59,34,37,177,5,Credit Card,Monthly,No
+946,39,40,60,175,1,Credit Card,Monthly,No
+947,38,27,195,340,2,PayPal,Yearly,No
+948,23,13,14,338,3,Credit Card,Yearly,No
+949,18,45,14,146,4,Credit Card,Monthly,No
+950,22,33,103,450,8,Bank Transfer,Yearly,No
+951,58,6,105,324,3,Credit Card,Yearly,No
+952,29,24,17,478,8,Bank Transfer,Yearly,Yes
+953,43,19,73,161,9,Credit Card,Monthly,No
+954,63,16,147,127,2,PayPal,Yearly,No
+955,51,40,47,420,7,Credit Card,Monthly,No
+956,66,28,120,82,0,Credit Card,Monthly,Yes
+957,31,33,121,485,8,Credit Card,Monthly,Yes
+958,43,59,90,147,8,Bank Transfer,Monthly,Yes
+959,62,59,145,239,9,PayPal,Monthly,No
+960,44,48,113,412,1,Credit Card,Yearly,No
+961,26,41,162,424,3,Bank Transfer,Monthly,Yes
+962,43,13,82,84,7,PayPal,Monthly,No
+963,64,43,187,113,6,Bank Transfer,Monthly,No
+964,39,45,58,225,0,Bank Transfer,Yearly,Yes
+965,64,25,45,332,4,PayPal,Yearly,No
+966,47,53,135,378,6,Credit Card,Yearly,No
+967,60,42,77,243,3,Bank Transfer,Yearly,No
+968,65,36,87,143,0,Bank Transfer,Monthly,No
+969,34,27,114,41,8,Credit Card,Monthly,No
+970,43,38,178,423,4,Credit Card,Yearly,Yes
+971,53,7,131,258,1,PayPal,Yearly,No
+972,18,5,128,447,7,PayPal,Yearly,No
+973,25,43,199,285,1,PayPal,Yearly,No
+974,66,45,123,105,2,Credit Card,Monthly,Yes
+975,52,58,19,202,9,Bank Transfer,Yearly,Yes
+976,69,57,158,450,0,Bank Transfer,Yearly,Yes
+977,32,51,173,307,1,PayPal,Yearly,Yes
+978,64,31,149,331,6,Credit Card,Yearly,No
+979,39,23,100,461,9,Bank Transfer,Yearly,No
+980,31,42,11,266,1,PayPal,Yearly,No
+981,43,10,127,398,5,Bank Transfer,Yearly,No
+982,45,32,22,210,2,Bank Transfer,Monthly,No
+983,40,43,190,51,3,Credit Card,Monthly,Yes
+984,31,53,169,118,7,Credit Card,Monthly,No
+985,41,30,104,201,2,Bank Transfer,Monthly,No
+986,19,39,153,377,9,PayPal,Monthly,No
+987,62,31,41,39,5,Credit Card,Monthly,No
+988,43,18,41,28,0,Bank Transfer,Yearly,No
+989,31,36,133,259,6,Credit Card,Yearly,No
+990,68,2,20,84,7,Credit Card,Monthly,No
+991,24,14,19,454,7,Credit Card,Yearly,No
+992,20,13,24,155,2,Bank Transfer,Monthly,No
+993,64,29,26,117,9,PayPal,Yearly,No
+994,40,12,177,2,0,PayPal,Yearly,Yes
+995,63,39,155,93,8,PayPal,Yearly,No
+996,60,2,192,166,5,Credit Card,Yearly,Yes
+997,64,32,162,387,8,Bank Transfer,Yearly,No
+998,62,13,68,400,6,Credit Card,Yearly,No
+999,35,46,87,350,0,PayPal,Monthly,No
+1000,55,27,133,296,0,PayPal,Monthly,No
